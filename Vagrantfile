@@ -1,5 +1,5 @@
 Vagrant.configure("2") do |config|
-  config.vm.box = "ubuntu/jammy64" # Escolha a box que você deseja usar
+  config.vm.box = "ubuntu/jammy64" #Escolha a "box/imagem" que você deseja usar
   config.vm.define "docker-node-01" do |docker|
   config.vm.box_download_insecure=true #Bypass nas imagens não consideradas "oficiais"  
   config.vm.provision "shell", inline: <<-SHELL
