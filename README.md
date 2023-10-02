@@ -1,3 +1,6 @@
+![devopeiros_logo](https://devopeiros.com.br/images/logo-darkmode_huf6206a142be6e7706be8cf1485b2d3cb_3243_320x0_resize_q90_h2_lanczos_3.webp) 
+
+
 # Vagrantfile
 
 
